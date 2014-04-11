@@ -29,7 +29,7 @@
 
 
     //Stampo a video i risultati delle 4 operazioni
-    echo "Utilizzando i numeri <b>". $primo_numero . "</b> ed il numero <b>". $secondo_numero. "</b> ottengo i seguenti risultati:<br>";
+    echo "Utilizzando i numeri <b>". $primo_numero . "</b> ed il numero<b>". $secondo_numero. "</b> ottengo i seguenti risultati:<br>";
     echo "<br> Moltiplicazione: ". $risultato_moltiplicazione. " <br>";
     echo "<br> Addizione: ". $risultato_addizione. " <br>";
     echo "<br> Sottrazione: ". $risultato_sottrazione . " <br>";

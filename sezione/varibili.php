@@ -4,7 +4,7 @@
  * Utente: Daniele Mondello
  * Web Site: danielemondello.it
  * Email:info@danielemondello.it
- * Argomento: Variabili e concatenazione di stringhe
+ * Argomento: Variabili e concatenazione stringhe
  * Data: 11/04/14
  */
 
