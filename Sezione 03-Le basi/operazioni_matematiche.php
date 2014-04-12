@@ -34,3 +34,5 @@
     echo "<br> Addizione: ". $risultato_addizione. " <br>";
     echo "<br> Sottrazione: ". $risultato_sottrazione . " <br>";
     echo "<br> Divisione: ". $risultato_divisione. " <br>";
+    echo "<br> ciao a tutti";
+
