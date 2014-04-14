@@ -12,8 +12,8 @@
     $numero_tabellina =5;
     echo '<b>Tabellina del '.$numero_tabellina .'</b><br>';
 
-    for ($multiplo = 1; $multiplo <= 10; ++$multiplo) {
-        $risultato = $numero_tabellina * $multiplo;
-        echo $numero_tabellina." * $multiplo = $risultato <br/>";
-    }
+        for ($multiplo = 1; $multiplo <= 10; ++$multiplo) {
+            $risultato = $numero_tabellina * $multiplo;
+            echo $numero_tabellina." * $multiplo = $risultato <br/>";
+        }
 
